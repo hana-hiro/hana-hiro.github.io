@@ -1,11 +1,14 @@
-# Hiroyuki, HANADA (花田 博幸)
+---
+layout: default
+title: Home
+---
 
 A researcher on information science.
 
 -   [Publications (業績)](publications.html)
 -   [Notes about research --  mainly mathematical topics (研究関連のメモ -- 主に数学)](https://sites.google.com/site/hrhanada/memo)
 
-## Research
+# Research (研究)
 
 -   Interests
     -   Flexible information retrieval
@@ -22,7 +25,7 @@ A researcher on information science.
     -   Since 2006:
         -   String similarity and its applications (Approximate string matching, Edit distance, q-gram distance, Edit distance approximation)
 
-## Affiliation
+# Affiliation (所属)
 
 -   June 2019 - CURRENT
     -   Post-doctoral researcher
@@ -42,13 +45,13 @@ A researcher on information science.
 (\*3) Supported by "AIP Challenge Program" (project title: "Non-probabilistic privacy-preserving machine learning") from August 2017 to March 2018  
 (\*4) Supported by "AIP Challenge PRISM Acceleration Support programs" (project title: "Missing value imputations by intervals", grant number: JPMJCR18ZF) from August 2018 to March 2019
 
-## Links
+# Links (リンク)
 
 -   ORCID: [https://orcid.org/0000-0002-2139-3857](https://orcid.org/0000-0002-2139-3857)
 -   ResearchGate: [https://www.researchgate.net/profile/Hiroyuki_Hanada](https://www.researchgate.net/profile/Hiroyuki_Hanada)
 -   GitHub: [https://github.com/hana-hiro](https://github.com/hana-hiro)
 
-## Contact (e-mail)
+# Contact (連絡先) 
 
 -   Address for current position: hiroyuki0hanada@riken.jp (replace '0' with dot)
 -   Personal address: hana1hiro@live.jp (replace '1' with hyphen)
