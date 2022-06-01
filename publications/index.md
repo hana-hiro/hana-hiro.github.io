@@ -3,13 +3,15 @@ layout: default
 title: Publications
 ---
 
--   [Back to top page](./)
+-   [Back to top page](../)
+
+# Publications (業績)
 
 The mark &quot;@&quot; denotes that the first author is him.
 
 Preprints noted &quot;Old preprint version&quot; may be largely updated from journal/conference versions.
 
-# Journal Papers
+## Journal Papers
 
 -   [Safe RuleFit: Learning Optimal Sparse Rule Model by Meta Safe Screening](https://ieeexplore.ieee.org/document/9762967) (Old preprint version released in October 2018: [arXiv:1810.01683](https://arxiv.org/abs/1810.01683))
     -   Hiroki Kato, Hiroyuki Hanada, Ichiro Takeuchi
@@ -21,7 +23,7 @@ Preprints noted &quot;Old preprint version&quot; may be largely updated from jou
     -   Hiroyuki Hanada, Mineichi Kudo and Atsuyoshi Nakamura
     -   [Theoretical Computer Science](http://www.journals.elsevier.com/theoretical-computer-science/), 530 (2014), pp. 23-41.
 
-# Conference Proceedings (refereed)
+## Conference Proceedings (refereed)
 
 -   Fast and More Powerful Selective Inference for Sparse High-order Interaction Model (Old preprint version released in June 2021: [arXiv:2106.04929](https://arxiv.org/abs/2106.04929))
     -   Diptesh Das, Vo Nguyen Le Duy, Hiroyuki Hanada, Koji Tsuda, Ichiro Takeuchi
@@ -43,7 +45,7 @@ Preprints noted &quot;Old preprint version&quot; may be largely updated from jou
     -   Hiroyuki Hanada, Atsuyoshi Nakamura and Mineichi Kudo
     -   [2011 IEEE International Conference on Granular Computing](http://grc2011.nuk.edu.tw/) (GrC2011), Kaohsiung, Taiwan, 2011, pp. 231-236.
 
-# Reports / Workshop presentations (not refereed)
+## Reports / Workshop presentations (not refereed)
 
 -   セーフスクリーニングによる最適ルールフィットモデルの学習 &lt;Learning optimal rule fit model by safe screening&gt;
     -   Hiroki Kato, Hiroyuki Hanada, Ichiro Takeuchi
@@ -63,7 +65,7 @@ Preprints noted &quot;Old preprint version&quot; may be largely updated from jou
     -   Hiroyuki Hanada, Atsuyoshi Nakamura and Mineichi Kudo
     -   [人工知能学会](http://www.ai-gakkai.or.jp/) [第89回人工知能基本問題研究会](http://www.donald.ai.kyutech.ac.jp/sigfpai/past/fpai89.html), Takizawa, Iwate, Japan, 2013, pp. 25-30.
 
-# Preprints
+## Preprints
 
 Preprints that are updated to journal/conference publications are not presented here.
 

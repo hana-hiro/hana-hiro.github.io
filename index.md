@@ -5,8 +5,8 @@ title: Home
 
 A researcher on information science.
 
--   [Publications (業績)](publications.html)
--   [Notes about research --  mainly mathematical topics (研究関連のメモ -- 主に数学)](https://sites.google.com/site/hrhanada/memo)
+-   [Publications (業績)](publications/)
+-   [Notes about research --  mainly mathematical topics (研究関連のメモ -- 主に数学)](memo/)
 
 # Research (研究)
 
