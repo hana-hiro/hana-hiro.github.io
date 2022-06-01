@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Formula for sample (population) covariance matrix (標本共分散行列の公式)
+title: Notes about research – mainly mathematical topics (研究関連のメモ – 主に数学)
 ---
 -   [Back to top page](../)
 

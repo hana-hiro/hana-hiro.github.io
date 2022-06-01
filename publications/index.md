@@ -72,7 +72,3 @@ Preprints that are updated to journal/conference publications are not presented 
 -   @ [On Practical Accuracy of Edit Distance Approximation Algorithms](https://arxiv.org/abs/1701.06134)
     -   Hiroyuki Hanada, Mineichi Kudo, Atsuyoshi Nakamura
     -   arXiv:1701.06134
-
-----
-
--   [Back to top page](./)
