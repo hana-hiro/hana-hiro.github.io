@@ -1,0 +1,12 @@
+for n from 3 to 10 do {
+  print("Degree of polynomial:", n);
+
+  // n次の最良近似多項式を求める
+  g = remez(1/(1+x), n, [0;1]);
+  print("Approximator:", g);
+  
+  // 近似誤差の最大値を求める
+  d = dirtyinfnorm(g-1/(1+x),[0;1]);
+  print("Maximum error:", d);
+  print("");
+};
