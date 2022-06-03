@@ -40,11 +40,11 @@ where $$\mathbf{1}$$ (bold) is an $$n$$-dimensional vector of all ones, and $$X_
 
 We also consider replacing the "squared loss" with another loss. We write the formulation above as
 
-$$\mathrm{arg}\min_{w,b} f(w, b)$$
+$$\mathrm{arg}\min_{w,b} f_Y(w, b)$$
 for
-$$f(w, b) := \frac{1}{2} \sum_{i=1}^n \mathrm{loss}_{Y_i}(X_{i:}w + b) + \lambda\|w\|_1,$$
+$$f_Y(w, b) := \sum_{i=1}^n \mathrm{loss}_{Y_i}(X_{i:}w + b) + \lambda\|w\|_1,$$
 
-where $$\mathrm{loss}_y(t)$$ is any function that represents the fitness between $$y$$ and $$t$$. This framework is called the (linear) *L1-regularized empirical risk minimization*. A famous example is $$\mathrm{loss}_y(t) = \log(1 + \exp(-yt))$$ ($$y = -1, +1$$), which is for the *logistic regression*. We assume that $$\mathrm{loss}_y(t)$$ is convex w.r.t. $$t$$, at that time $$f(w, b)$$ is also convex w.r.t. $$w$$.
+where $$\mathrm{loss}_y(t)$$ is any function that represents the fitness between $$y$$ and $$t$$. This framework is called the (linear) *L1-regularized empirical risk minimization*. A famous example is $$\mathrm{loss}_y(t) = \log(1 + \exp(-yt))$$ ($$y = -1, +1$$), which is for the *logistic regression*. We assume that $$\mathrm{loss}_y(t)$$ is convex w.r.t. $$t$$, at that time $$f_Y(w, b)$$ is also convex w.r.t. $$w$$.
 
 ## Example (例)
 
@@ -75,13 +75,72 @@ Because $$X_{:j} = X_{:k}$$, it is obvious that $$w^{**} := [w^*_1, w^*_2, ..., 
 
 Then let us exploit the property of convex functions.
 
--   Since $$f(w, b)$$ is convex w.r.t. $$w$$, $$f(h w^* + (1-h)w^{**}, b^*) \leq h f(w^*, b^*) + (1-h) f(w^{**}, b^*)$$ must hold.
--   Since we assume $$f(w^*, b^*)$$ and $$f(w^{**}, b^*)$$ are both optimal (at minimum), $$f(w, b^*)\geq f(w^*, b^*) = f(w^{**}, b^*)$$ must hold for any $$w$$.
-    Moreover, $$h f(w^*, b^*) + (1-h) f(w^{**}, b^*) = h f(w^*, b^*) + (1-h) f(w^*, b^*) = f(w^*, b^*)$$.
--   Combining them, the first inequality can be replaced with the equality, that is, $$f(h w^* + (1-h)w^{**}, b^*) = h f(w^*, b^*) + (1-h) f(w^{**}, b^*)$$.
+-   Since $$f_Y(w, b)$$ is convex w.r.t. $$w$$, $$f_Y(h w^* + (1-h)w^{**}, b^*) \leq h f_Y(w^*, b^*) + (1-h) f_Y(w^{**}, b^*)$$ must hold.
+-   Since we assume $$f_Y(w^*, b^*)$$ and $$f_Y(w^{**}, b^*)$$ are both optimal (at minimum), $$f_Y(w, b^*)\geq f_Y(w^*, b^*) = f_Y(w^{**}, b^*)$$ must hold for any $$w$$.
+    Moreover, $$h f_Y(w^*, b^*) + (1-h) f_Y(w^{**}, b^*) = h f_Y(w^*, b^*) + (1-h) f_Y(w^*, b^*) = f_Y(w^*, b^*)$$.
+-   Combining them, the first inequality can be replaced with the equality, that is, $$f_Y(h w^* + (1-h)w^{**}, b^*) = h f_Y(w^*, b^*) + (1-h) f_Y(w^{**}, b^*)$$.
 
 ## Viewpoints from Fenchel duality (フェンシェル双対からの観点)
 
-In case we take the dual problem by Fenchel's duality theorem, the optimum becomes unique even for the example above (X has two equivalent columns). In fact, the dual problem is a minimization of convex quadratic function in a convex set.
+In case we take the dual problem by Fenchel's duality theorem, the optimum becomes unique even for the example above ($$X$$ has two equivalent columns). In fact, the dual problem is a minimization of convex quadratic function in a convex set.
 
-To be added ...
+### Fenchel's duality theorem
+
+For a convex function $$f: \mathbb{R}^d\to\mathbb{R}$$, its *convex conjugate* $$f^*: \mathbb{R}^d\to\mathbb{R}\cup\{+\infty\}$$ is defined as follows:
+
+$$f^*(t) := \sup_{s\in\mathbb{R}^d} \{ t^\top s - f(s) \}.$$
+
+Then, given two convex functions $$L: \mathbb{R}^n\to\mathbb{R}$$,  $$R: \mathbb{R}^d\to\mathbb{R}$$ and a matrix $$X\in\mathbb{R}^{n\times d}$$, consider the following functions $$P:\mathbb{R}^d\to\mathbb{R}$$ and $$D:\mathbb{R}^n\to\mathbb{R}$$:
+
+$$P(t) := L(Xt) + R(t),$$  
+$$D(u) := -L^*(-u) - R^*(X^\top u).$$
+
+Here, Fenchel's duality theorem states that the following relationship holds:
+
+$$\min_{t\in\mathbb{R}^d} P(t) = \max_{u\in\mathbb{R}^n} D(u).$$
+
+Moreover, defining the optima as $$t^* := \mathrm{arg}\min_{t\in\mathbb{R}^d} P(t)$$ and $$u^* := \mathrm{arg}\max_{u\in\mathbb{R}^n} D(u)$$, the followings hold:
+
+$$X^\top u^* \in \partial R(t^*),$$  
+$$-u^* \in \partial L(X t^*),$$  
+
+where $$\partial$$ denotes the subderivative.
+
+### Fenchel's duality theorem for Lasso
+
+Let us apply the theorem to the problem stated before:
+
+$$f_Y(w, b) := \sum_{i=1}^n \mathrm{loss}_{Y_i}(X_{i:}w + b) + \lambda\|w\|_1.$$
+
+First, let $$t := [w^\top \mid b]^\top \in \mathbb{R}^{d+1}$$ and $$\bar{X} := [X \mid \mathbf{1}] \in \mathbb{R}^{n\times(d+1)}$$. Then, we have only to define $$L\in\mathbb{R}^n$$ and $$R\in\mathbb{R}^{d+1}$$ as follows:
+
+$$L(u) := \sum_{i=1}^n \mathrm{loss}_{Y_i}(u_i),$$  
+$$R(t) := \lambda\sum_{j=1}^d |t_j|.$$
+
+Their convex conjugates are calculated as follows:
+
+$$L^*(u) = \sup_{u^\prime\in\mathbb{R}^n} \Bigl[ u^\top u^\prime - \sum_{i=1}^n \mathrm{loss}_{Y_i}(u^\prime_i) \Bigr] = \sup_{u^\prime\in\mathbb{R}^n} \Bigl[ \sum_{i=1}^n u_i u^\prime_i - \mathrm{loss}_{Y_i}(u^\prime_i) \Bigr]$$  
+$$\therefore L^*(u) = \sum_{i=1}^n \mathrm{loss}^*_{Y_i}(u_i)$$  
+$$R^*(t) = \sup_{t^\prime\in\mathbb{R}^{d+1}} \Bigl[ t^\top t^\prime - \lambda\sum_{j=1}^d |t^\prime_j| \Bigr] = \sup_{t^\prime\in\mathbb{R}^{d+1}} \Bigl[ t_{d+1} t^\prime_{d+1} + \sum_{j=1}^d (t_j t^\prime_j - \lambda|t^\prime_j|) \Bigr]$$  
+$$\therefore R^*(t) = \begin{cases} 0 & (t_{d+1} = 0 ~\text{and}~\forall j\in\{1, 2, \ldots, d\}: |t_j|\leq\lambda) \\ +\infty & (\text{otherwise}) \end{cases}$$
+
+Thus we have
+
+$$f_Y(w, b) := P(t) = L(\bar{X}t) + R(t),$$  
+$$D(u) := -L^*(-u) - R^*(\bar{X}^\top u).$$
+
+Note that, since $$u$$ that makes $$R^*(\bar{X}^\top u)$$ infinite must be removed from the optimization. So, in the viewpoint of the optimization, $$D(u)$$ can be rewritten as follows:
+
+$$D(u) = -L^*(-u)~\text{subject to}~\mathbf{1}^\top u = 0~\text{and}~\forall j\in\{1, 2, \ldots, d\}: |\bar{X}_{:j}^\top u|\leq\lambda.$$
+
+The optimality conditions are written as follows:
+
+$$\forall j\in\{1, 2, \ldots, d\}:~~~~\bar{X}_{:j}^\top u^* \begin{cases} = -\lambda & (t^*_j < 0), \\ = \lambda & (t^*_j > 0), \\ \in [-\lambda, \lambda] & (t^*_j = 0)\end{cases}$$  
+$$\forall i\in\{1, 2, \ldots, n\}:~~~~-u^*_i \in \partial \mathrm{loss}_{Y_i}(\bar{X}_{i:}t^*),$$  
+
+So, even if the optimal solution of Lasso $$t^*$$ is the same for different dataset $$\bar{X}$$, the dual solution $$u^*$$ may be different.
+Especially, in case $$\mathrm{loss}_{Y_i}$$ is strictly convex, then $$\partial\mathrm{loss}_{Y_i}$$ is strictly increasing and therefore the dual solution $$u^*$$ must be different for different $$\bar{X}$$.
+
+## [To be added] The condition of dual problem solutions that provides identical primal solution ([追加予定] 異なる双対問題の解が同じ主問題の解を与える条件)
+
+(To be added)
