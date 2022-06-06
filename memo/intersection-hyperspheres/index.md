@@ -55,10 +55,10 @@ $$z^* = c + \frac{\zeta}{\|\mu\|}\mu,$$
 where
 
 $$d = \|b - a\|,$$  
-$$\omega = (1/2) - [q^2 - p^2] / [2 d^2],$$  
+$$\omega = \frac{1}{2} - \frac{q^2 - p^2}{2 d^2},$$  
 $$c = a + \omega(b - a),$$  
 $$\zeta^2 = p^2 - \omega^2 d^2,$$  
-$$L = h^\top(b - a) / d^2,$$  
+$$L = \frac{h^\top(b - a)}{d^2},$$  
 $$\mu = h - L(b - a).$$
 
 ## Note for Step 1
@@ -101,23 +101,23 @@ Then, let us calculate $$T$$ more specifically. By Lemmas 1 through 3, we can pr
 $$T = \{ z | \|z - c\| = \zeta, z^\top(b - a) = k\},$$
 where  
 $$c = a + \omega(b - a),$$  
-$$\omega = (1/2) - [q^2 - p^2] / [2 d^2],$$  
+$$\omega = \frac{1}{2} - \frac{q^2 - p^2}{2 d^2},$$  
 $$\zeta^2 = p^2 - \omega^2 d^2,$$  
-$$k = [\|b\|^2 - \|a\|^2 - (q^2 - p^2)] / 2.$$
+$$k = \frac{\|b\|^2 - \|a\|^2 - (q^2 - p^2)}{2}.$$
 
 So, $$T$$ is a surface of a hypersphere on the (n-1)-dimensional subspace $$z^\top(b - a) = k$$.
 
 ![Figure 3](fig3.png)  
 
 To maximize $$h^\top z$$ on this $$T$$, we need to take $$z$$ for the same direction as $$h$$ as possible:
-due to the constraint that $$z$$ must be on $$T$$, we may not take $$z = (\zeta/\|h\|)h$$.
+due to the constraint that $$z$$ must be on $$T$$, we may not take $$z = \frac{\zeta}{\|h\|} h$$.
 To maximize this, we do the followings:
 
 -   Let us decompose $$h$$ into the vector in the subspace (denoted by $$\mu\in \mathbb{R}^n$$) and perpendicular to the subspace (represented as $$L(b - a)$$, where $$L\in \mathbb{R}$$), that is, $$\mu = h - L(b - a)$$ subject to $$\mu^\top(b - a) = 0$$.
-    -   This is solved as $$L = h^\top(b - a) / d^2$$.
--   Take $$z = c + (\zeta / \|\mu\|)\mu$$ to maximize $$h^\top z$$.
+    -   This is solved as $$L = \frac{h^\top(b - a)}{d^2}$$.
+-   Take $$z = c + \frac{\zeta}{\|\mu\|} \mu$$ to maximize $$h^\top z$$.
 
-Therefore, $$z^* = c + (\zeta / \|\mu\|)\mu$$ if neither $$f = f_1$$ nor $$f = f_2$$.
+Therefore, $$z^* = c + \frac{\zeta}{\|\mu\|} \mu$$ if neither $$f = f_1$$ nor $$f = f_2$$.
 
 ## Lemmas
 
