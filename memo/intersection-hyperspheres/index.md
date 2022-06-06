@@ -137,7 +137,7 @@ $$\|m\|^2 - 2b^\top  m + \|b\|^2 = q^2.$$
 
 Taking the difference of them, we have  
 $$2(a - b)^\top m + \|b\|^2 - \|a\|^2 = q^2 - p^2$$  
-and therefore
+and therefore  
 $$v = b - a,$$  
 $$k = \frac{\|b\|^2 - \|a\|^2 - (q^2 - p^2)}{2}.$$
 
@@ -176,9 +176,9 @@ Calculating $$\|m - c\|^2$$ we have
 $$\|m - c\|^2 = \|c\|^2 - 2m^\top  c + \|m\|^2$$  
 $$= \|c\|^2 - 2m^\top(a + \omega(b - a)) + \|m\|^2$$  
 $$= \|c\|^2 - 2m^\top  a + \|m\|^2 - 2\omega m^\top(b - a)$$  
-$$= \|c\|^2 + p^2 - \|a\|^2 - 2\omega m^\top(b - a)$$  
-(By the assumption $$\|m - a\| = p]$$)
-$$= \|c\|^2 + p^2 - \|a\|^2 - 2\omega k$$  
+$$= \|c\|^2 + p^2 - \|a\|^2 - 2\omega m^\top(b - a)$$
+(By the assumption $$\|m - a\| = p]$$)  
+$$= \|c\|^2 + p^2 - \|a\|^2 - 2\omega k$$
 (By Lemma 1)  
 $$= \|a\|^2 +  \omega^2\|b - a\|^2 + 2\omega a^\top(b - a) + p^2 - \|a\|^2 - 2\omega k$$  
 $$= \omega[k - a^\top(b - a)] + 2\omega a^\top(b - a) + p^2 - 2\omega k$$  
