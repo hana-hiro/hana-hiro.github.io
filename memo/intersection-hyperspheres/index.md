@@ -58,7 +58,7 @@ $$d = \|b - a\|,$$
 $$\omega = (1/2) - [q^2 - p^2] / [2 d^2],$$  
 $$c = a + \omega(b - a),$$  
 $$\zeta^2 = p^2 - \omega^2 d^2,$$  
-$$L = h^\top(b - a) / d^2,$$
+$$L = h^\top(b - a) / d^2,$$  
 $$\mu = h - L(b - a).$$
 
 ## Note for Step 1
