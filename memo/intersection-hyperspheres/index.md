@@ -158,7 +158,12 @@ $$\omega d^2 = k - a^\top(b - a) = \frac{d^2 - (q^2 - p^2)}{2}.$$
 
 ### Lemma 3
 
-There exists a positive real number $$\zeta > 0$$ such that
+$$T$$
+can be represented as the intersection of
+$$H[T]$$
+and "the surface of a hypersphere with center $$c$$".
+
+More specifically, There exists a positive real number $$\zeta > 0$$ such that
 
 >   For any
 >   $$m\in \mathbb{R}^n,$$
@@ -169,7 +174,7 @@ There exists a positive real number $$\zeta > 0$$ such that
 
 By the Pythagorean theorem, we can calculate as $$\zeta^2 = p^2 - \omega^2 d^2$$. This $$\zeta$$ assures the sufficiency of the theorem.
 
-Let us prove the necessity, that is, any m\in T is on both $$H[T]$$ and $$\|m - c\| = \zeta$$, where the former is already proved as Lemma 1.
+Let us prove the necessity, that is, any $$m\in T$$ is on both $$H[T]$$ and $$\|m - c\| = \zeta$$, where the former is already proved as Lemma 1.
 
 Calculating $$\|m - c\|^2$$ we have
 
@@ -177,7 +182,7 @@ $$\|m - c\|^2 = \|c\|^2 - 2m^\top  c + \|m\|^2$$
 $$= \|c\|^2 - 2m^\top(a + \omega(b - a)) + \|m\|^2$$  
 $$= \|c\|^2 - 2m^\top  a + \|m\|^2 - 2\omega m^\top(b - a)$$  
 $$= \|c\|^2 + p^2 - \|a\|^2 - 2\omega m^\top(b - a)$$
-(By the assumption $$\|m - a\| = p]$$)  
+(By the assumption $$\|m - a\| = p$$)  
 $$= \|c\|^2 + p^2 - \|a\|^2 - 2\omega k$$
 (By Lemma 1)  
 $$= \|a\|^2 +  \omega^2\|b - a\|^2 + 2\omega a^\top(b - a) + p^2 - \|a\|^2 - 2\omega k$$  
