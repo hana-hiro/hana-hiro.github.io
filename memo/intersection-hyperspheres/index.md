@@ -17,8 +17,23 @@ What we would like to compute are summarized as $$f$$ and $$z^*$$ below:
 
 $$ f = \max_{ z\in S_1 \cap S_2 } h^\top z, $$  
 $$ z^* = \mathrm{arg}\max_{z\in S_1 \cap S_2} h^\top z. $$
+(i.e., $$h^\top z^* = f$$.)
 
-Note that $$h^\top z^* = f$$.
+Intuitively, since we consider the inner product, what we would like to find is the largest vector among $$S_1 \cap S_2$$ having the largest magnitude for the direction of $$h$$ (see the figure below).
+
+![Figure 2](fig2.png)
+
+ベクトル $$a, b, h\in \mathbb{R}^n$$ および正の実数 $$p, q > 0$$ について、
+ベクトル $$z$$ は二つの超球 $$S_1  = \{ z \mid \|z - a\| \leq p \}$$ および $$S_2 = \{ z \mid \|z - b\| \leq q \}$$ の積集合の中にあるとする。
+このとき、内積 $$h^\top z$$ を最大化するような $$z$$ は何であるだろうか。
+
+これは、以下の $$f$$ および $$z^*$$ を得ることともいえる：
+
+$$ f = \max_{ z\in S_1 \cap S_2 } h^\top z, $$  
+$$ z^* = \mathrm{arg}\max_{z\in S_1 \cap S_2} h^\top z. $$
+(つまり、$$h^\top z^* = f$$.)
+
+直感的には、求めたいのが内積であるのだから、$$S_1 \cap S_2$$ 内のベクトルで、$$h$$ の向きに大きさが最も大きいものを求めればよい（上図参照）。
 
 ## Solution (答え)
 
