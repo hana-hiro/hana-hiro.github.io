@@ -138,9 +138,26 @@ The optimality conditions are written as follows:
 $$\forall j\in\{1, 2, \ldots, d\}:~~~~\bar{X}_{:j}^\top u^* \begin{cases} = -\lambda & (t^*_j < 0), \\ = \lambda & (t^*_j > 0), \\ \in [-\lambda, \lambda] & (t^*_j = 0)\end{cases}$$  
 $$\forall i\in\{1, 2, \ldots, n\}:~~~~-u^*_i \in \partial \mathrm{loss}_{Y_i}(\bar{X}_{i:}t^*),$$  
 
-So, even if the optimal solution of Lasso $$t^*$$ is the same for different dataset $$\bar{X}$$, the dual solution $$u^*$$ may be different.
-Especially, in case $$\mathrm{loss}_{Y_i}$$ is strictly convex, then $$\partial\mathrm{loss}_{Y_i}$$ is strictly increasing and therefore the dual solution $$u^*$$ must be different for different $$\bar{X}$$.
+### If the loss function is differentiable and strictly convex (損失関数が微分可能かつ真に凸である場合)
 
-## [To be added] The condition of dual problem solutions that provides identical primal solution ([追加予定] 異なる双対問題の解が同じ主問題の解を与える条件)
+Suppose that $$\mathrm{loss}_{Y_i}$$ is strictly convex.
+Then, $$D(u) = -L^*(-u)$$ is also strictly convex and therefore its minimum must be unique.
+So, even if $$t^*$$ (the minimizer for $$P(t)$$) is not unique, $$u^*$$ (the maximizer for $$D(u)$$) must be unique.
+
+Moreover, if $$\mathrm{loss}_{Y_i}$$ is differentiable, $$\partial\mathrm{loss}_{Y_i}$$ must be increasing and single-valued. (Since we consider the subderivative $$\partial$$, it may be multi-valued if not differentiable.) As a result, the inverse function of $$\partial \mathrm{loss}_{Y_i}$$ can be defined and therefore we have
+
+$$\bar{X}_{i:}t^* = [\partial \mathrm{loss}_{Y_i}]^{-1}(-u^*_i).$$
+
+Since we found that $$u^*$$ must be unique, $$\bar{X}_{i:}t^*$$ must be unique for all $$i$$.
+
+Conversely, for multiple $$t^*$$'s such that $$\bar{X}_{i:}t^*$$ is fixed for all $$i$$,
+$$D(u^*)$$
+(and also $$P(t^*)$$) must be unique.
+
+In summary, if $$\mathrm{loss}_{Y_i}$$ is differentiable and strictly convex, then multiple $$t^*$$'s can be the minimizers for $$P(t)$$ such that
+$$\bar{X}_{i:}t^*$$
+is identical for all $$i$$.
+
+## [To Be Added] If the loss function is not necessarily differentiable or strictly convex (損失関数が微分可能かつ真に凸とは限らない場合)
 
 (To be added)
