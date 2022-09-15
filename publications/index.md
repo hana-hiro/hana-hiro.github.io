@@ -47,6 +47,9 @@ Preprints noted &quot;Old preprint version&quot; may be largely updated from jou
 
 ## Reports / Workshop presentations (not refereed)
 
+-   複数の参照解を利用したSafe Pattern Pruningにおける正則化パス計算の効率化  &lt;Improving Efficiency of Regularization Path Computation in Safe Pattern Pruning via Multiple Referential Solutions&gt;
+    -   Takumi YOSHIDA, Hiroyuki HANADA, Kazuya NAKAGAWA, Shinya SUZUMURA, Onur BOYAR, Kazuki IWATA, Shun SHIMURA, Yuji TANAKA, Masayuki KARASUYAMA, Kouichi TAJI, Koji TSUDA, Ichiro TAKEUCHI
+    -   [情報論的学習理論と機械学習 (IBISML) 研究会](http://ibisml.org/) [2022年9月15日](https://ken.ieice.org/ken/program/index.php?tgs_regid=77b1d41466869cef9a2d42f53548115dbdfad4783fe2e7e9034019aadf45d79c&tgid=IEICE-IBISML), Yokohama, Japan, 2022
 -   セーフスクリーニングによる最適ルールフィットモデルの学習 &lt;Learning optimal rule fit model by safe screening&gt;
     -   Hiroki Kato, Hiroyuki Hanada, Ichiro Takeuchi
     -   [第21回情報論的学習理論ワークショップ](http://ibisml.org/ibis2018/) 2018年11月5日～7日, Sapporo, Japan, 2018
