@@ -43,7 +43,7 @@ A researcher on information science.
     -   Master course (April 2007 - March 2009) / Doctoral course (April 2009 - March 2014) / Received PhD on 30th June 2014
     -   Hokkaido University, [Graduate School of Information Science and Technology](https://www.ist.hokudai.ac.jp/), Computer Science Division, [Laboratory for Pattern Recognition and Machine Learning](http://prml.main.ist.hokudai.ac.jp/)
 
-(\*1) Under the project "[探索的分析によるデータ駆動型仮説の信頼性評価法の確立と生命科学分野における実証](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20H00601/)" of Grants-in-Aid for Scientific Research (KAKENHI) since April 2020  
+(\*1) Participating the project "[探索的分析によるデータ駆動型仮説の信頼性評価法の確立と生命科学分野における実証](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20H00601/)" of Grants-in-Aid for Scientific Research (KAKENHI) since April 2020  
 (\*2) As Department of Scientific and Engineering Simulation until March 2015  
 (\*3) Under the project "[Privacy-preserving data collection and analytics with guarantee of information control and its application to personalized medicine and genetic epidemiology](https://www.jst.go.jp/kisoken/crest/en/project/1111081/13418089.html)" of CREST Advanced Application Technologies to Boost Big Data Utilization for Multiple-Field Scientific Discovery and Social Problem Solving, Japan Science and Technology Agency (JST) until March 2019  
 (\*4) Supported by "AIP Challenge Program" (project title: "Non-probabilistic privacy-preserving machine learning") from August 2017 to March 2018  
