@@ -21,7 +21,10 @@ Preprints noted &quot;Old preprint version&quot; may be largely updated from jou
     -   [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), Number TBD (2022).
 -   [Supervised sequential pattern mining of event sequences in sport to identify important patterns of play: An application to rugby union](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0256329)
     -   Rory Bunker, Keisuke Fujii, Hiroyuki Hanada and Ichiro Takeuchi
-    -   [PLoS ONE](https://journals.plos.org/plosone/) 16(9): e0256329.
+    -   [PLoS ONE](https://journals.plos.org/plosone/) 16(9): e0256329 (2021).
+-   [Stat-DSM: Statistically Discriminative Sub-Trajectory Mining With Multiple Testing Correction](https://ieeexplore.ieee.org/document/9093199)
+    -   Vo Nguyen Le Duy, Takuto Sakuma, Taiju Ishiyama, Hiroki Toda, Kazuya Arai, Masayuki Karasuyama, Yuta Okubo, Masayuki Sunaga, Hiroyuki Hanada, Yasuo Tabei, Ichiro Takeuchi
+    -   [IEEE Xplore: IEEE Transactions on Knowledge and Data Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69), 34, 3 (2020), pp. 1477-1488.
 -   @ **[Average-case linear-time similar substring searching by the q-gram distance](http://dx.doi.org/10.1016/j.tcs.2014.02.022)** ([Preprint hosted by Hokkaido University](http://eprints.lib.hokudai.ac.jp/dspace/handle/2115/58429))
     -   Hiroyuki Hanada, Mineichi Kudo and Atsuyoshi Nakamura
     -   [Theoretical Computer Science](http://www.journals.elsevier.com/theoretical-computer-science/), 530 (2014), pp. 23-41.
