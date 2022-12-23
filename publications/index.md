@@ -53,6 +53,9 @@ Preprints noted &quot;Old preprint version&quot; may be largely updated from jou
 
 ## Reports / Workshop presentations (not refereed)
 
+-   深層生成モデルを用いた予測系列パターンマイニングにおけるロバスト性の向上 &lt;Improving robustness of predictive sequence pattern mining using deep generative model&gt;
+    -   Yuji TANAKA, Takumi YOSHIDA, Hiroyuki HANADA, Kouichi TAJI, Ichiro Takeuchi
+    -   [第20回情報学ワークショップ (Workshop on Informatics 2022)](https://sites.google.com/view/winf2022/), 2022年12月17日, Nagoya, Japan, 2022
 -   予測パターンマイニングモデルの最適化アルゴリズム &lt;Optimization Algorithm for Predictive Pattern Mining Model&gt;
     -   Ichiro Takeuchi, Hiroyuki Hanada
     -   [日本機械学会 最適化シンポジウム2022](https://www.jsme.or.jp/conference/optis2022/), 2022年11月12日～13日, Nagoya, Japan, 2022
