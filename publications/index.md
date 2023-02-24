@@ -19,6 +19,9 @@ Preprints noted &quot;Old preprint version&quot; may be largely updated from jou
 -   [Safe RuleFit: Learning Optimal Sparse Rule Model by Meta Safe Screening](https://ieeexplore.ieee.org/document/9762967) (Old preprint version released in October 2018: [arXiv:1810.01683](https://arxiv.org/abs/1810.01683))
     -   Hiroki Kato, Hiroyuki Hanada, Ichiro Takeuchi
     -   [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), Number TBD (2022).
+-   [Short chain fatty acids-producing and mucin-degrading intestinal bacteria predict the progression of early Parkinson’s disease](https://www.nature.com/articles/s41531-022-00328-5)
+    -   Hiroshi Nishiwaki, Mikako Ito, Tomonari Hamaguchi, Tetsuya Maeda, Kenichi Kashihara, Yoshio Tsuboi, Jun Ueyama, Takumi Yoshida, Hiroyuki Hanada, Ichiro Takeuchi, Masahisa Katsuno, Masaaki Hirayama, Kinji Ohno
+    -   [NPJ Parkinson's Disease](https://www.nature.com/npjparkd/), 8, 65 (2022).
 -   [Supervised sequential pattern mining of event sequences in sport to identify important patterns of play: An application to rugby union](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0256329)
     -   Rory Bunker, Keisuke Fujii, Hiroyuki Hanada and Ichiro Takeuchi
     -   [PLoS ONE](https://journals.plos.org/plosone/) 16(9): e0256329 (2021).
