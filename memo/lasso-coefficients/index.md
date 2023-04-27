@@ -95,7 +95,7 @@ Then, given two convex functions $$L: \mathbb{R}^n\to\mathbb{R}$$,  $$R: \mathbb
 $$P(t) := L(Xt) + R(t),$$  
 $$D(u) := -L^*(-u) - R^*(X^\top u).$$
 
-Here, Fenchel's duality theorem states that the following relationship holds:
+Here, Fenchel's duality theorem states that the following relationship holds under certain regularity conditions (See, for example, "Convex analysis" R. T. Rockafellar, Princeton university press, 1970):
 
 $$\min_{t\in\mathbb{R}^d} P(t) = \max_{u\in\mathbb{R}^n} D(u).$$
 
