@@ -13,7 +13,7 @@ Preprints noted &quot;Old preprint version&quot; may be largely updated from jou
 
 ## Journal Papers
 
--   [Novel Machine Learning Method AllerStat Identifies Statistically Significant Allergen-Specific Patterns in Protein Sequences - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0021925823017611)
+-   [Novel Machine Learning Method AllerStat Identifies Statistically Significant Allergen-Specific Patterns in Protein Sequences](https://www.sciencedirect.com/science/article/pii/S0021925823017611)
     -   Kento Goto, Norimasa Tamehiro, Takumi Yoshida, Hiroyuki Hanada, Takuto Sakuma, Reiko Adachi, Kazunari Kondo, Ichiro Takeuchi
     -   [Journal of Biological Chemistry](https://www.sciencedirect.com/journal/journal-of-biological-chemistry), Number TBD (2023).
 -   [SMG6 regulates DNA damage and cell survival in Hippo pathway kinase LATS2-inactivated malignant mesothelioma](https://www.nature.com/articles/s41420-022-01232-w)
