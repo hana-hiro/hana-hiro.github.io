@@ -90,6 +90,12 @@ Preprints noted &quot;Old preprint version&quot; may be largely updated from jou
 
 Preprints that are updated to journal/conference publications are not presented here.
 
+-   **[Generalized Low-Rank Update: Model Parameter Bounds for Low-Rank Training Data Modifications](https://arxiv.org/abs/2306.12670)**
+    -   Hiroyuki Hanada, Noriaki Hashimoto, Kouichi Taji, Ichiro Takeuchi
+    -   arXiv:2306.12670
+-   **[Efficient Model Selection for Predictive Pattern Mining Model by Safe Pattern Pruning](https://arxiv.org/abs/2306.13561)**
+    -   Takumi Yoshida, Hiroyuki Hanada, Kazuya Nakagawa, Kouichi Taji, Koji Tsuda, Ichiro Takeuchi
+    -   arXiv:2306.13561
 -   @ **[On Practical Accuracy of Edit Distance Approximation Algorithms](https://arxiv.org/abs/1701.06134)**
     -   Hiroyuki Hanada, Mineichi Kudo, Atsuyoshi Nakamura
     -   arXiv:1701.06134
