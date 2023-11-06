@@ -13,15 +13,19 @@ Preprints noted &quot;Old preprint version&quot; may be largely updated from jou
 
 ## Journal Papers
 
+-   @ **Generalized Low-Rank Update: Model Parameter Bounds for Low-Rank Training Data
+Modifications** (Old preprint version released in June 2023: [arXiv:2306.12670](https://arxiv.org/abs/2306.12670))
+    -   Hiroyuki Hanada, Noriaki Hashimoto, Kouichi Taji, Ichiro Takeuchi
+    -   [Neural Computation](https://direct.mit.edu/neco), Number TBD (2023).
 -   [Novel Machine Learning Method AllerStat Identifies Statistically Significant Allergen-Specific Patterns in Protein Sequences](https://www.sciencedirect.com/science/article/pii/S0021925823017611)
     -   Kento Goto, Norimasa Tamehiro, Takumi Yoshida, Hiroyuki Hanada, Takuto Sakuma, Reiko Adachi, Kazunari Kondo, Ichiro Takeuchi
-    -   [Journal of Biological Chemistry](https://www.sciencedirect.com/journal/journal-of-biological-chemistry), Number TBD (2023).
+    -   [Journal of Biological Chemistry](https://www.sciencedirect.com/journal/journal-of-biological-chemistry), 299, 6 (2023).
+-   [Safe RuleFit: Learning Optimal Sparse Rule Model by Meta Safe Screening](https://ieeexplore.ieee.org/document/9762967) (Old preprint version released in October 2018: [arXiv:1810.01683](https://arxiv.org/abs/1810.01683))
+    -   Hiroki Kato, Hiroyuki Hanada, Ichiro Takeuchi
+    -   [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), 45, 2 (2023).
 -   [SMG6 regulates DNA damage and cell survival in Hippo pathway kinase LATS2-inactivated malignant mesothelioma](https://www.nature.com/articles/s41420-022-01232-w)
     -   Koya Suzuki, Masaki Tange, Ryota Yamagishi, Hiroyuki Hanada, Satomi Mukai, Tatsuhiro Sato, Takeshi Tanaka, Tomohiro Akashi, Kenji Kadomatsu, Tohru Maeda, Takashi Miida, Ichiro Takeuchi, Hiroshi Murakami, Yoshitaka Sekido, Yuko Murakami-Tonami
     -   [Cell Death Discovery](https://www.nature.com/cddiscovery/), 8, 446 (2022).
--   [Safe RuleFit: Learning Optimal Sparse Rule Model by Meta Safe Screening](https://ieeexplore.ieee.org/document/9762967) (Old preprint version released in October 2018: [arXiv:1810.01683](https://arxiv.org/abs/1810.01683))
-    -   Hiroki Kato, Hiroyuki Hanada, Ichiro Takeuchi
-    -   [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), Number TBD (2022).
 -   [Short chain fatty acids-producing and mucin-degrading intestinal bacteria predict the progression of early Parkinson’s disease](https://www.nature.com/articles/s41531-022-00328-5)
     -   Hiroshi Nishiwaki, Mikako Ito, Tomonari Hamaguchi, Tetsuya Maeda, Kenichi Kashihara, Yoshio Tsuboi, Jun Ueyama, Takumi Yoshida, Hiroyuki Hanada, Ichiro Takeuchi, Masahisa Katsuno, Masaaki Hirayama, Kinji Ohno
     -   [NPJ Parkinson's Disease](https://www.nature.com/npjparkd/), 8, 65 (2022).
@@ -59,6 +63,15 @@ Preprints noted &quot;Old preprint version&quot; may be largely updated from jou
 
 ## Reports / Workshop presentations (not refereed)
 
+-   @ **入力データ分布の変動にロバストなセーフ事例スクリーニング**
+    -   Hiroyuki Hanada, Satoshi Akahane, Yu Inatsu, Tatsuya Aoyama, Yoshito Okura, Tomonari Tanaka, Shinya Kojima, Lee Hanju, Ichiro Takeuchi
+    -   [第26回情報論的学習理論ワークショップ](https://ibisml.org/ibis2023/) 2023年10月29日～11月1日, Kitakyushu, Japan, 2023
+-   入力データ分布に対する不確実性の下での分布ロバストな能動学習
+    -   Yoshito Okura, Yu Inatsu, Shion Takeno, Hiroyuki Hanada, Tatsuya Aoyama, Tomonari Tanaka, Satoshi Akahane, Shinya Kojima, Lee Hanju, Ichiro Takeuchi
+    -   [第26回情報論的学習理論ワークショップ](https://ibisml.org/ibis2023/) 2023年10月29日～11月1日, Kitakyushu, Japan, 2023
+-   入力不確実性が存在する下での信用領域を用いたリスク尺度に対する多目的ベイズ最適化手法
+    -   Yu Inatsu, Hiroyuki Hanada, Kazuki Iwata, Shion Takeno, Ichiro Takeuchi
+    -   [第26回情報論的学習理論ワークショップ](https://ibisml.org/ibis2023/) 2023年10月29日～11月1日, Kitakyushu, Japan, 2023
 -   深層生成モデルを用いた予測系列パターンマイニングにおけるロバスト性の向上 &lt;Improving robustness of predictive sequence pattern mining using deep generative model&gt;
     -   Yuji TANAKA, Takumi YOSHIDA, Hiroyuki HANADA, Kouichi TAJI, Ichiro Takeuchi
     -   [第20回情報学ワークショップ (Workshop on Informatics 2022)](https://sites.google.com/view/winf2022/), 2022年12月17日, Nagoya, Japan, 2022
