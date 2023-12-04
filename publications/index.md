@@ -13,10 +13,12 @@ Preprints noted &quot;Old preprint version&quot; may be largely updated from jou
 
 ## Journal Papers
 
--   @ **Generalized Low-Rank Update: Model Parameter Bounds for Low-Rank Training Data
-Modifications** (Old preprint version released in June 2023: [arXiv:2306.12670](https://arxiv.org/abs/2306.12670))
+-   **[Efficient model selection for predictive pattern mining model by safe pattern pruning](https://www.sciencedirect.com/science/article/pii/S2666389923002921)** (Old preprint version released in June 2023: [arXiv:2306.13561](https://arxiv.org/abs/2306.13561))
+    -   Takumi Yoshida, Hiroyuki Hanada, Kazuya Nakagawa, Kouichi Taji, Koji Tsuda, Ichiro Takeuchi
+    -   [Patterns](https://www.sciencedirect.com/journal/patterns), Number TBD (2023).
+-   @ **[Generalized Low-Rank Update: Model Parameter Bounds for Low-Rank Training Data Modifications](https://direct.mit.edu/neco/article-abstract/35/12/1970/117832/Generalized-Low-Rank-Update-Model-Parameter-Bounds)** (Old preprint version released in June 2023: [arXiv:2306.12670](https://arxiv.org/abs/2306.12670))
     -   Hiroyuki Hanada, Noriaki Hashimoto, Kouichi Taji, Ichiro Takeuchi
-    -   [Neural Computation](https://direct.mit.edu/neco), Number TBD (2023).
+    -   [Neural Computation](https://direct.mit.edu/neco), 35, 12 (2023).
 -   [Novel Machine Learning Method AllerStat Identifies Statistically Significant Allergen-Specific Patterns in Protein Sequences](https://www.sciencedirect.com/science/article/pii/S0021925823017611)
     -   Kento Goto, Norimasa Tamehiro, Takumi Yoshida, Hiroyuki Hanada, Takuto Sakuma, Reiko Adachi, Kazunari Kondo, Ichiro Takeuchi
     -   [Journal of Biological Chemistry](https://www.sciencedirect.com/journal/journal-of-biological-chemistry), 299, 6 (2023).
@@ -103,12 +105,6 @@ Modifications** (Old preprint version released in June 2023: [arXiv:2306.12670](
 
 Preprints that are updated to journal/conference publications are not presented here.
 
--   **[Generalized Low-Rank Update: Model Parameter Bounds for Low-Rank Training Data Modifications](https://arxiv.org/abs/2306.12670)**
-    -   Hiroyuki Hanada, Noriaki Hashimoto, Kouichi Taji, Ichiro Takeuchi
-    -   arXiv:2306.12670
--   **[Efficient Model Selection for Predictive Pattern Mining Model by Safe Pattern Pruning](https://arxiv.org/abs/2306.13561)**
-    -   Takumi Yoshida, Hiroyuki Hanada, Kazuya Nakagawa, Kouichi Taji, Koji Tsuda, Ichiro Takeuchi
-    -   arXiv:2306.13561
 -   @ **[On Practical Accuracy of Edit Distance Approximation Algorithms](https://arxiv.org/abs/1701.06134)**
     -   Hiroyuki Hanada, Mineichi Kudo, Atsuyoshi Nakamura
     -   arXiv:1701.06134
