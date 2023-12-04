@@ -13,7 +13,7 @@ Preprints noted &quot;Old preprint version&quot; may be largely updated from jou
 
 ## Journal Papers
 
--   **[Efficient model selection for predictive pattern mining model by safe pattern pruning](https://www.sciencedirect.com/science/article/pii/S2666389923002921)** (Old preprint version released in June 2023: [arXiv:2306.13561](https://arxiv.org/abs/2306.13561))
+-   [Efficient model selection for predictive pattern mining model by safe pattern pruning](https://www.sciencedirect.com/science/article/pii/S2666389923002921) (Old preprint version released in June 2023: [arXiv:2306.13561](https://arxiv.org/abs/2306.13561))
     -   Takumi Yoshida, Hiroyuki Hanada, Kazuya Nakagawa, Kouichi Taji, Koji Tsuda, Ichiro Takeuchi
     -   [Patterns](https://www.sciencedirect.com/journal/patterns), Number TBD (2023).
 -   @ **[Generalized Low-Rank Update: Model Parameter Bounds for Low-Rank Training Data Modifications](https://direct.mit.edu/neco/article-abstract/35/12/1970/117832/Generalized-Low-Rank-Update-Model-Parameter-Bounds)** (Old preprint version released in June 2023: [arXiv:2306.12670](https://arxiv.org/abs/2306.12670))
@@ -56,7 +56,7 @@ Preprints noted &quot;Old preprint version&quot; may be largely updated from jou
     -   Hiroyuki Hanada, Shuhei Denzumi, Yuma Inoue, Hiroshi Aoki, Norihito Yasuda, Shogo Takeuchi and Shin-Ichi Minato
     -   [9th International Workshop on Algorithms and Computation](http://www.buet.ac.bd/cse/walcom2015/) (WALCOM 2015), Dhaka, Bangladesh, 2015, pp 161-174 in Lecture Notes in Computer Science Volume 8973.
 [Implementation in Python + Graphillion](https://github.com/hana-hiro/graphillion-trails)
--   @ **Quasi-Linear-Time Substring Searching by q-gram Distance** (For paper, please consult [the refined version published as a journal paper](http://eprints.lib.hokudai.ac.jp/dspace/handle/2115/58429))
+-   @ **Quasi-Linear-Time Substring Searching by q-gram Distance** (For paper, please consult [the refined version](http://eprints.lib.hokudai.ac.jp/dspace/handle/2115/58429))
     -   Hiroyuki Hanada, Mineichi Kudo and Atsuyoshi Nakamura
     -   [4th International Conference on Data Mining and Intelligent Information Technology Applications](http://www.aicit.org/icmia2012/home/index.html), Taipei, Taiwan, 2012, pp. 540-545.
 -   @ **[A practical comparison of edit distance approximation algorithms](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6122599)**
