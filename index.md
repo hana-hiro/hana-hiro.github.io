@@ -32,10 +32,10 @@ A researcher on information science.
 
 -   June 2019 - CURRENT
     -   Post-doctoral researcher
-    -   RIKEN, [Center for Advanced Intelligence Project](https://aip.riken.jp/), Data-Driven Biomedical Science Team <sup>(\*1)</sup>
+    -   RIKEN, [Center for Advanced Intelligence Project](https://aip.riken.jp/), Data-Driven Biomedical Science Team <sup>(\*1)(\*2)</sup>
 -   April 2015 - May 2019
     -   Researcher (Project Assistant Professor)
-    -   Nagoya Institute of Technology, [Department of Computer Science](http://www.cs.nitech.ac.jp/) <sup>(\*2)</sup>, [Takeuchi&Karasuyama Laboratory](http://www-als.ics.nitech.ac.jp/) <sup>(\*3)(\*4)(\*5)</sup>
+    -   Nagoya Institute of Technology, [Department of Computer Science](http://www.cs.nitech.ac.jp/) <sup>(\*3)</sup>, [Takeuchi&Karasuyama Laboratory](http://www-als.ics.nitech.ac.jp/) <sup>(\*4)(\*5)(\*6)</sup>
 -   May 2014 - March 2015
     -   Researcher (August 2014 - March 2015) / Research Assistant (May 2014 - July 2014 )
     -   Japan Science and Technology Agency (JST) (working at Hokkaido University), [ERATO Minato Discrete Structure Manipulation System Project](http://web.archive.org/web/20210617055940/http://www-erato.ist.hokudai.ac.jp/)
@@ -44,10 +44,11 @@ A researcher on information science.
     -   Hokkaido University, [Graduate School of Information Science and Technology](https://www.ist.hokudai.ac.jp/), Computer Science Division, [Laboratory for Pattern Recognition and Machine Learning](http://prml.main.ist.hokudai.ac.jp/)
 
 (\*1) Participating the project "[探索的分析によるデータ駆動型仮説の信頼性評価法の確立と生命科学分野における実証](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20H00601/)" of Grants-in-Aid for Scientific Research (KAKENHI) since April 2020  
-(\*2) As Department of Scientific and Engineering Simulation until March 2015  
-(\*3) Under the project "[Privacy-preserving data collection and analytics with guarantee of information control and its application to personalized medicine and genetic epidemiology](https://www.jst.go.jp/kisoken/crest/en/project/1111081/13418089.html)" of CREST Advanced Application Technologies to Boost Big Data Utilization for Multiple-Field Scientific Discovery and Social Problem Solving, Japan Science and Technology Agency (JST) until March 2019  
-(\*4) Supported by "AIP Challenge Program" (project title: "Non-probabilistic privacy-preserving machine learning") from August 2017 to March 2018  
-(\*5) Supported by "AIP Challenge PRISM Acceleration Support programs" (project title: "Missing value imputations by intervals", grant number: JPMJCR18ZF) from August 2018 to March 2019
+(\*2) Supported by "AIP Challenge Program" (project title: "Fast Machine Learning for Increasing/Decreasing Training Dataset") from August 2023 to March 2024  
+(\*3) As Department of Scientific and Engineering Simulation until March 2015  
+(\*4) Under the project "[Privacy-preserving data collection and analytics with guarantee of information control and its application to personalized medicine and genetic epidemiology](https://www.jst.go.jp/kisoken/crest/en/project/1111081/13418089.html)" of CREST Advanced Application Technologies to Boost Big Data Utilization for Multiple-Field Scientific Discovery and Social Problem Solving, Japan Science and Technology Agency (JST) until March 2019  
+(\*5) Supported by "AIP Challenge Program" (project title: "Non-probabilistic privacy-preserving machine learning") from August 2017 to March 2018  
+(\*6) Supported by "AIP Challenge PRISM Acceleration Support programs" (project title: "Missing value imputations by intervals", grant number: JPMJCR18ZF) from August 2018 to March 2019
 
 # Links (リンク)
 
