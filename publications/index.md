@@ -15,7 +15,7 @@ Preprints noted &quot;Old preprint version&quot; may be largely updated from jou
 
 -   [Efficient model selection for predictive pattern mining model by safe pattern pruning](https://www.sciencedirect.com/science/article/pii/S2666389923002921) (Old preprint version released in June 2023: [arXiv:2306.13561](https://arxiv.org/abs/2306.13561))
     -   Takumi Yoshida, Hiroyuki Hanada, Kazuya Nakagawa, Kouichi Taji, Koji Tsuda, Ichiro Takeuchi
-    -   [Patterns](https://www.sciencedirect.com/journal/patterns), Number TBD (2023).
+    -   [Patterns](https://www.sciencedirect.com/journal/patterns), 4, 12 (2023).
 -   @ **[Generalized Low-Rank Update: Model Parameter Bounds for Low-Rank Training Data Modifications](https://direct.mit.edu/neco/article-abstract/35/12/1970/117832/Generalized-Low-Rank-Update-Model-Parameter-Bounds)** (Old preprint version released in June 2023: [arXiv:2306.12670](https://arxiv.org/abs/2306.12670))
     -   Hiroyuki Hanada, Noriaki Hashimoto, Kouichi Taji, Ichiro Takeuchi
     -   [Neural Computation](https://direct.mit.edu/neco), 35, 12 (2023).
