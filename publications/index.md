@@ -43,6 +43,9 @@ Preprints noted &quot;Old preprint version&quot; may be largely updated from jou
 
 ## Conference Proceedings (refereed)
 
+-   Bounding Box-based Multi-objective Bayesian Optimization of Risk Measures under Input Uncertainty
+    -   Yu Inatsu, Shion Takeno, Hiroyuki Hanada, Kazuki Iwata and Ichiro Takeuchi
+    -   [The 27th International Conference on Artificial Intelligence and Statistics](https://aistats.org/aistats2024/) (AISTATS2024), Valencia, Spain, 2024.
 -   Fast and More Powerful Selective Inference for Sparse High-order Interaction Model (Old preprint version released in June 2021: [arXiv:2106.04929](https://arxiv.org/abs/2106.04929))
     -   Diptesh Das, Vo Nguyen Le Duy, Hiroyuki Hanada, Koji Tsuda, Ichiro Takeuchi
     -   [The 36th AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-22/) (AAAI-22), Online conference, 2022.
