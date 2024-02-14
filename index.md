@@ -54,6 +54,7 @@ A researcher on information science.
 
 -   ORCID: [https://orcid.org/0000-0002-2139-3857](https://orcid.org/0000-0002-2139-3857)
 -   ResearchGate: [https://www.researchgate.net/profile/Hiroyuki_Hanada](https://www.researchgate.net/profile/Hiroyuki_Hanada)
+-   ResearchMap: [https://researchmap.jp/hana-hiro](https://researchmap.jp/hana-hiro)
 -   GitHub: [https://github.com/hana-hiro](https://github.com/hana-hiro)
 
 # Contact (連絡先) 
