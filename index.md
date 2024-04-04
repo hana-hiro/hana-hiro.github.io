@@ -35,7 +35,7 @@ See the [Research Funds](funds/) page for the projects which I received funds.
 
 -   June 2019 - PRESENT
     -   Post-doctoral researcher
-    -   RIKEN, [Center for Advanced Intelligence Project](https://aip.riken.jp/), Data-Driven Biomedical Science Team
+    -   RIKEN, [Center for Advanced Intelligence Project](https://aip.riken.jp/), [Data-Driven Biomedical Science Team](https://www.riken.jp/en/research/labs/aip/goalorient_tech/datadrive_biomed/)
 -   April 2015 - May 2019
     -   Researcher (Project Assistant Professor)
     -   Nagoya Institute of Technology, [Department of Computer Science](http://www.cs.nitech.ac.jp/) <sup>(\*1)</sup>, [Takeuchi&Karasuyama Laboratory](http://www-als.ics.nitech.ac.jp/)
