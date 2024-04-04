@@ -6,6 +6,7 @@ title: Home
 A researcher on information science.
 
 -   [Publications (業績)](publications/)
+-   [Research Funds (研究費)](funds/)
 -   [Notes about research --  mainly mathematical topics (研究関連のメモ -- 主に数学)](memo/)
 
 ![At the poster session in AAAI2018 on 5th February 2018](photo-aaai2018.jpg)  
@@ -30,6 +31,8 @@ A researcher on information science.
 
 # Affiliation (所属)
 
+See the [Research Funds](funds/) page for the projects which I received funds.
+
 -   June 2019 - PRESENT
     -   Post-doctoral researcher
     -   RIKEN, [Center for Advanced Intelligence Project](https://aip.riken.jp/), Data-Driven Biomedical Science Team
@@ -44,16 +47,6 @@ A researcher on information science.
     -   Hokkaido University, [Graduate School of Information Science and Technology](https://www.ist.hokudai.ac.jp/), Computer Science Division, [Laboratory for Pattern Recognition and Machine Learning](http://prml.main.ist.hokudai.ac.jp/)
 
 (\*1) As Department of Scientific and Engineering Simulation until March 2015  
-
-## Projects / funds that supports my research
-
-The mark &quot;@&quot; denotes projects applied by me.
-
--   @ August 2023 - March 2024: [AIP Challenge Program](https://www.jst.go.jp/kisoken/aip/program/wakate/challenge/list2023.html) (project title: "Fast Machine Learning for Increasing/Decreasing Training Dataset")
--   April 2020 - March 2025: Grants-in-Aid for Scientific Research (KAKENHI) (project title: "[探索的分析によるデータ駆動型仮説の信頼性評価法の確立と生命科学分野における実証](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20H00601/)")
--   @ August 2018 - March 2019: [AIP Challenge PRISM Acceleration Support programs](https://www.jst.go.jp/kisoken/aip/program/wakate/prism/index.html) (project title: "Missing value imputations by intervals", grant number: JPMJCR18ZF)
--   @ August 2017 - March 2018: [AIP Challenge Program](https://www.jst.go.jp/kisoken/aip/program/wakate/challenge/list2017.html) (project title: "Non-probabilistic privacy-preserving machine learning")
--   April 2015 - March 2019: CREST Advanced Application Technologies to Boost Big Data Utilization for Multiple-Field Scientific Discovery and Social Problem Solving (project title: "[Privacy-preserving data collection and analytics with guarantee of information control and its application to personalized medicine and genetic epidemiology](https://www.jst.go.jp/kisoken/crest/en/project/1111081/13418089.html)")
 
 # Links (リンク)
 
