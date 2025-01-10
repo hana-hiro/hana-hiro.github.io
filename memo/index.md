@@ -16,6 +16,7 @@ The languages of the titles with the link denote the main languages of the notes
 -   [Sollyaによる最良近似多項式の算出](sollya/)
 -   [Maximizing inner product in the intersection of two hyperspheres](intersection-hyperspheres/) (2つの超球の共通部分の中で、内積値を最大化する)
 -   [標本共分散行列の公式](sample-covariance-matrix/) <!--(Formula for sample (population) covariance matrix)-->
+-   [CVXPYによる凸関数の最小化](cvxpy/)
 
 ## Notes by others (他の方によるもの)
 
