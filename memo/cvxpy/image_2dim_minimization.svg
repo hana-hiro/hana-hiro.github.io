@@ -1,0 +1,19 @@
+<svg version="1.1" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <radialGradient id="rgrad">
+    <stop offset="0%" stop-color="rgba(128, 0, 0, 0)" />
+    <stop offset="100%" stop-color="rgba(128, 0, 0, 1)" />
+  </radialGradient>
+  <circle cx="50" cy="350" r="500" fill="url(#rgrad)" />
+
+  <line x1="50" y1="0" x2="50" y2="400" stroke="gray" stroke-width="3"/>
+  <line x1="50" y1="0" x2="40" y2="10" stroke="gray" stroke-width="3"/>
+  <line x1="50" y1="0" x2="60" y2="10" stroke="gray" stroke-width="3"/>
+
+  <line x1="0" y1="350" x2="400" y2="350" stroke="gray" stroke-width="3"/>
+  <line x1="400" y1="350" x2="390" y2="340" stroke="gray" stroke-width="3"/>
+  <line x1="400" y1="350" x2="390" y2="360" stroke="gray" stroke-width="3"/>
+
+  <circle cx="200" cy="150" r="100" fill="transparent" stroke="blue" stroke-width="10" />
+
+  <circle cx="140" cy="230" r="10" fill="#00C000" stroke="#008000" stroke-width="1" />
+</svg>
