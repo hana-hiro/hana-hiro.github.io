@@ -68,6 +68,9 @@ Preprints noted &quot;Old preprint version&quot; may be largely updated from jou
 
 ## Reports / Workshop presentations (not refereed)
 
+-   遊離した細胞の遊離前位置特定を目的とした複数物体追跡
+    -   Shun Shimura, Yuko Ukai, Hiroyuki Hanada, Kouichi Taji, Yoshikatsu Sato, Ichiro Takeuchi
+    -   [日本オペレーションズ・リサーチ学会 2024年秋季研究発表会](https://orsj.org/nc2024f/) 2024年9月10日～11日, Nagoya, Japan, 2024
 -   @ **入力データ分布の変動にロバストなセーフ事例スクリーニング**
     -   Hiroyuki Hanada, Satoshi Akahane, Yu Inatsu, Tatsuya Aoyama, Yoshito Okura, Tomonari Tanaka, Shinya Kojima, Lee Hanju, Ichiro Takeuchi
     -   [第26回情報論的学習理論ワークショップ](https://ibisml.org/ibis2023/) 2023年10月29日～11月1日, Kitakyushu, Japan, 2023
@@ -108,6 +111,9 @@ Preprints noted &quot;Old preprint version&quot; may be largely updated from jou
 
 Preprints that are updated to journal/conference publications are not presented here.
 
+-   @ **[Distributionally Robust Safe Sample Screening](https://arxiv.org/abs/2406.05964)**
+    -   Hiroyuki Hanada, Satoshi Akahane, Yu Inatsu, Tatsuya Aoyama, Yoshito Okura, Tomonari Tanaka, Shinya Kojima, Lee Hanju, Ichiro Takeuchi
+    -   arXiv:2406.05964
 -   @ **[On Practical Accuracy of Edit Distance Approximation Algorithms](https://arxiv.org/abs/1701.06134)**
     -   Hiroyuki Hanada, Mineichi Kudo, Atsuyoshi Nakamura
     -   arXiv:1701.06134
