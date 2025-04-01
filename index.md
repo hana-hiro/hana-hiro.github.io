@@ -33,12 +33,15 @@ A researcher on information science.
 
 See the [Research Funds](funds/) page for the projects which I received funds.
 
--   June 2019 - PRESENT
+-   April 2025 - PRESENT
+    -   Project associate professor (\*1)
+    -   Nagoya University, Graduate School of Engineering, Divisions of Mechanical and Aerospace Engineering
+-   June 2019 - March 2025
     -   Post-doctoral researcher
     -   RIKEN, [Center for Advanced Intelligence Project](https://aip.riken.jp/), [Data-Driven Biomedical Science Team](https://www.riken.jp/en/research/labs/aip/goalorient_tech/datadrive_biomed/)
 -   April 2015 - May 2019
     -   Researcher (Project Assistant Professor)
-    -   Nagoya Institute of Technology, [Department of Computer Science](http://www.cs.nitech.ac.jp/) <sup>(\*1)</sup>, [Takeuchi&Karasuyama Laboratory](http://www-als.ics.nitech.ac.jp/)
+    -   Nagoya Institute of Technology, [Department of Computer Science](http://www.cs.nitech.ac.jp/) <sup>(\*2)</sup>, [Takeuchi&Karasuyama Laboratory](http://www-als.ics.nitech.ac.jp/)
 -   May 2014 - March 2015
     -   Researcher (August 2014 - March 2015) / Research Assistant (May 2014 - July 2014 )
     -   Japan Science and Technology Agency (JST) (working at Hokkaido University), [ERATO Minato Discrete Structure Manipulation System Project](http://web.archive.org/web/20210617055940/http://www-erato.ist.hokudai.ac.jp/)
@@ -46,7 +49,8 @@ See the [Research Funds](funds/) page for the projects which I received funds.
     -   Master course (April 2007 - March 2009) / Doctoral course (April 2009 - March 2014) / Received PhD on 30th June 2014
     -   Hokkaido University, [Graduate School of Information Science and Technology](https://www.ist.hokudai.ac.jp/), Computer Science Division, [Laboratory for Pattern Recognition and Machine Learning](http://prml.main.ist.hokudai.ac.jp/)
 
-(\*1) As Department of Scientific and Engineering Simulation until March 2015  
+(\*1) Under the project "デジタル価値創造人材育成プログラム" (developing students with creativity in digital technologies)  
+(\*2) As Department of Scientific and Engineering Simulation until March 2015  
 
 # Links (リンク)
 
