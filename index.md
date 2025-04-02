@@ -62,5 +62,5 @@ See the [Research Funds](funds/) page for the projects which I received funds.
 
 # Contact (連絡先) 
 
--   Address for current position: hiroyuki0hanada@riken.jp (replace '0' with dot)
+-   Address for current position: hanada!hiroyuki!i9@f.mail.nagoya-u.ac.jp (replace all '!'s with dot)
 -   Personal address: hana1hiro@live.jp (replace '1' with hyphen)
