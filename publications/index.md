@@ -13,6 +13,9 @@ Preprints noted &quot;Old preprint version&quot; may be largely updated from jou
 
 ## Journal Papers
 
+-   Distributionally Robust Coreset Selection under Covariate Shift (Old preprint version released in February 2025: [arXiv:2501.14253](https://arxiv.org/abs/2501.14253))
+    -   Tomonari Tanaka, Hiroyuki Hanada, Hanting Yang, Tatsuya Aoyama, Yu Inatsu, Satoshi Akahane, Yoshito Okura, Noriaki Hashimoto, Taro Murayama, Hanju Lee, Shinya Kojima, Ichiro Takeuchi
+    -   [Transactions on Machine Learning Research](https://jmlr.org/tmlr/), To appear
 -   [Efficient model selection for predictive pattern mining model by safe pattern pruning](https://www.sciencedirect.com/science/article/pii/S2666389923002921) (Old preprint version released in June 2023: [arXiv:2306.13561](https://arxiv.org/abs/2306.13561))
     -   Takumi Yoshida, Hiroyuki Hanada, Kazuya Nakagawa, Kouichi Taji, Koji Tsuda, Ichiro Takeuchi
     -   [Patterns](https://www.sciencedirect.com/journal/patterns), 4, 12 (2023).
@@ -43,6 +46,9 @@ Preprints noted &quot;Old preprint version&quot; may be largely updated from jou
 
 ## Conference Proceedings (refereed)
 
+-   Distributionally Robust Active Learning for Gaussian Process Regression (Old preprint version releasd in February 2025: [arXiv:2502.16870](https://arxiv.org/abs/2502.16870))
+    -   Shion Takeno, Yoshito Okura, Yu Inatsu, Aoyama Tatsuya, Tomonari Tanaka, Akahane Satoshi, Hiroyuki Hanada, Noriaki Hashimoto, Taro Murayama, Hanju Lee, Shinya Kojima, Ichiro Takeuchi
+    -   [The 42nd International Conference on Machine Learning](https://icml.cc/Conferences/2025)  (ICML2025), Vancouver, Canada, 2025.
 -   Bounding Box-based Multi-objective Bayesian Optimization of Risk Measures under Input Uncertainty
     -   Yu Inatsu, Shion Takeno, Hiroyuki Hanada, Kazuki Iwata and Ichiro Takeuchi
     -   [The 27th International Conference on Artificial Intelligence and Statistics](https://aistats.org/aistats2024/) (AISTATS2024), Valencia, Spain, 2024.
@@ -111,6 +117,12 @@ Preprints noted &quot;Old preprint version&quot; may be largely updated from jou
 
 Preprints that are updated to journal/conference publications are not presented here.
 
+-   [Generalized Kernel Inducing Points by Duality Gap for Dataset Distillation](https://arxiv.org/abs/2502.12607)
+    -   Tatsuya Aoyama, Hanting Yang, Hiroyuki Hanada, Satoshi Akahane, Tomonari Tanaka, Yoshito Okura, Yu Inatsu, Noriaki Hashimoto, Taro Murayama, Hanju Lee, Shinya Kojima, Ichiro Takeuchi
+    -   arXiv:2502.12607
+-   [Conditional Latent Space Molecular Scaffold Optimization for Accelerated Molecular Design](https://arxiv.org/abs/2411.01423)
+    -   Onur Boyar, Hiroyuki Hanada, Ichiro Takeuchi
+    -   arXiv:2411.01423
 -   @ **[Distributionally Robust Safe Sample Screening](https://arxiv.org/abs/2406.05964)**
     -   Hiroyuki Hanada, Satoshi Akahane, Yu Inatsu, Tatsuya Aoyama, Yoshito Okura, Tomonari Tanaka, Shinya Kojima, Lee Hanju, Ichiro Takeuchi
     -   arXiv:2406.05964
