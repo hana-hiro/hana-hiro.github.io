@@ -13,9 +13,9 @@ Preprints noted &quot;Old preprint version&quot; may be largely updated from jou
 
 ## Journal Papers
 
--   Distributionally Robust Coreset Selection under Covariate Shift (Old preprint version released in February 2025: [arXiv:2501.14253](https://arxiv.org/abs/2501.14253))
+-   [Distributionally Robust Coreset Selection under Covariate Shift](https://openreview.net/forum?id=Eu7XMLJqsC)
     -   Tomonari Tanaka, Hiroyuki Hanada, Hanting Yang, Tatsuya Aoyama, Yu Inatsu, Satoshi Akahane, Yoshito Okura, Noriaki Hashimoto, Taro Murayama, Hanju Lee, Shinya Kojima, Ichiro Takeuchi
-    -   [Transactions on Machine Learning Research](https://jmlr.org/tmlr/), To appear
+    -   [Transactions on Machine Learning Research](https://jmlr.org/tmlr/), June 2025
 -   [Efficient model selection for predictive pattern mining model by safe pattern pruning](https://www.sciencedirect.com/science/article/pii/S2666389923002921) (Old preprint version released in June 2023: [arXiv:2306.13561](https://arxiv.org/abs/2306.13561))
     -   Takumi Yoshida, Hiroyuki Hanada, Kazuya Nakagawa, Kouichi Taji, Koji Tsuda, Ichiro Takeuchi
     -   [Patterns](https://www.sciencedirect.com/journal/patterns), 4, 12 (2023).
